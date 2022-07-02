@@ -1,0 +1,6 @@
+# Abstarct
+
+Cultivating study habits for children under age 12 is a key issue for parents. Major concerns include kids' concentration, sitting posture and eye health. 
+Most existing methods utilize computer vision techniques for attention analysis and screen-based devices for interaction. However, vision techniques are expensive and inaccurate. And screen interaction is distracting and harmful to eyesight. 
+In this work, we present FOCAREUS, an application based on Huawei smart glasses, to help kids better concentrate while studying, and develop healthy sitting posture and eye care awareness. With glasses on, FOCAREUS can monitor concentration level, sitting posture and eye stress. On detecting declining concentration level, unhealthy posture or eye fatigue, the glasses will send reminders in popular cartoon voice. Moreover, the application on parents' terminal displays reports on kids' studying performance and suggestions, fostering a more intimate bond through intelligent data. 
+The effectiveness is demonstrated by data analysis, children experiments and parent interview.
